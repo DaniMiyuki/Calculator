@@ -9,7 +9,7 @@ public class Main {
 		Calculator calculator = new Calculator();
 		
 		
-		// Menu com sistema de input
+		// Menu com sistema de input.
 		String menu;
 		Scanner scanner = new Scanner(System.in);
 		
@@ -19,7 +19,6 @@ public class Main {
             System.out.println("[-] Subtract a number");
             System.out.println("[*] Multiply a number");
             System.out.println("[/] Divide a number");
-            System.out.println("[AC] Clear");
             System.out.println("S-End");
             menu = scanner.nextLine();
             

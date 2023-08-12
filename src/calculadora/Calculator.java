@@ -36,10 +36,6 @@ public class Calculator {
 		}
 	}
 	
-	public void clear() {
-		result = 0;
-	}
-	
 	public double getResult() {
 		return result;
 	}
