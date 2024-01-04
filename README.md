@@ -1,2 +1,5 @@
-# Exercicios
- Calculadora com Menu
+# Java calculator
+ Creating exercises for Java structure comprehension.....
+
+ 
+ 
